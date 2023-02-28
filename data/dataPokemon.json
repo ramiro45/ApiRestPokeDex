@@ -8,7 +8,7 @@
       "pok_tipo": "Grass",
       "pok_altura": "0.71 m",
       "pok_peso": "6.9 kg",
-      "pok_gif": "https://img.pokemondb.net/artwork/bulbasaur.jpg"
+      "pok_gif": "https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif"
     },
     {
       "pok_id": 2,
@@ -18,7 +18,7 @@
       "pok_tipo": "Grass",
       "pok_altura": "0.99 m",
       "pok_peso": "13.0 kg",
-      "pok_gif": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ivysaur.png"
+      "pok_gif": "https://img.pokemondb.net/sprites/black-white/anim/normal/ivysaur.gif"
     },
     {
       "pok_id": 3,
